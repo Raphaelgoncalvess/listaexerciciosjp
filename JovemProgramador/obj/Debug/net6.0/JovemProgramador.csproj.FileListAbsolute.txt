@@ -1,0 +1,30 @@
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.exe
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.deps.json
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.runtimeconfig.json
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.dll
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.pdb
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.csproj.AssemblyReference.cache
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.AssemblyInfoInputs.cache
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.AssemblyInfo.cs
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.csproj.CoreCompileInputs.cache
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.dll
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\refint\JovemProgramador.dll
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.pdb
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.genruntimeconfig.cache
+C:\Users\abyga\source\repos\JovemProgramador\JovemProgramador\obj\Debug\net6.0\ref\JovemProgramador.dll
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.exe
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.deps.json
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.runtimeconfig.json
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.dll
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\bin\Debug\net6.0\JovemProgramador.pdb
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.dll
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\refint\JovemProgramador.dll
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.pdb
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\JovemProgramador.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Programação\Jovem Programador\Sistemas da informação\JovemProgramador\JovemProgramador\obj\Debug\net6.0\ref\JovemProgramador.dll
